@@ -10,4 +10,8 @@ world
 1111111
 
 
+<<<<<<< HEAD
 aaaaa
+=======
+veb
+>>>>>>> 2d497c96e171ffa82a249c743ebba6c6b188bb55
